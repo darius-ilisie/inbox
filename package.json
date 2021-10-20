@@ -1,0 +1,19 @@
+{
+  "name": "inbox",
+  "version": "0.0.1",
+  "description": "Udemy Solidity Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darius-ilisie/inbox.git"
+  },
+  "author": "darius-ilisie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darius-ilisie/inbox/issues"
+  },
+  "homepage": "https://github.com/darius-ilisie/inbox#readme"
+}
